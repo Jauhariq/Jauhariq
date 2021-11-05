@@ -4,7 +4,7 @@
 <h1 align='center'>Hallo 👋 :wave:</h1>
 <p align='center'>Halo, Saya Jauhari dan terima kasih sudah berkunjung ke profil github saya</p>
 <p align="center">
-<a href="//Instagram.com/kalimat2anime"><img align="center" src="https://cardivo.vercel.app/api?name=Jauhariq&description=Halo,%20saya%20Jauhari%20dan%20saya%20hanyalah%20manusia%20yang%20ingin%20berguna%20bagi%20manusia%20yang%20lain%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/jauhariq&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@kalimat2anime&github=Jauhariq&pattern=ticTacToe&colorPattern=%23eaeaea&site=bit.ly/Animown"/></a>
+<a href="//Instagram.com/kalimat2anime"><img align="center" src="https://cardivo.vercel.app/api?name=Jauhariq&description=Halo,%20saya%20Jauhari%20dan%20saya%20hanyalah%20manusia%20yang%20ingin%20berguna%20bagi%20manusia%20yang%20lain%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/jauhariq&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@kalimat2anime&github=Jauhariq&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://bit.ly/Animoneesan"/></a>
 </p>
  
  
