@@ -18,10 +18,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jauhariq)
 [![Facebook](https://img.shields.io/badge/Facebook-9cf?style=for-the-badge&logo=facebook&logoColor=blue)](https://facebook.com/jauhari.afif7)
 
-<h3 align="left">Github Status</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jauhariq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
-</p> 
+## My Stats
+![Github stat](https://github-readme-stats.vercel.app/api?username=Jauhariq&theme=midnight-purple&show_icons=true) 
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jauhariq&theme=midnight-purple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jauhariq&theme=monokai)
 
 <p align="left">
   <a href="https://github.com/jauhariq"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jauhariq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
