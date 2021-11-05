@@ -22,7 +22,3 @@
 ![Github stat](https://github-readme-stats.vercel.app/api?username=Jauhariq&theme=midnight-purple&show_icons=true) 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jauhariq&theme=midnight-purple)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jauhariq&theme=monokai)
-
-<p align="left">
-  <a href="https://github.com/jauhariq"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jauhariq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
-</p>
