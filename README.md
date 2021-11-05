@@ -20,5 +20,5 @@
 
 ## My Stats
 ![Github stat](https://github-readme-stats.vercel.app/api?username=Jauhariq&theme=highcontrast&show_icons=true) 
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jauhariq&theme=midnight-purple)
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jauhariq&theme=great-gatsby)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jauhariq&theme=monokai)
