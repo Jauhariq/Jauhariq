@@ -12,11 +12,8 @@
  <img src="https://komarev.com/ghpvc/?username=jauhariq&color=blue&label=Total Pengunjung Profil" />
  </p>
 
-<h3 align="left">Hubungi Saya:</h3>
-<p align="left"><a href="https://instagram.com/kalimat2anime" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" height="30" width="30" /> Instagram</a>
-<p align="left"><a href="https://Wa.me/6283877698966" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" height="30" width="30" /> Whatsapp</a>
-<p align="left"><a href="//t.me/jauhariq"><img src="https://storage.caliph71.xyz/img/telegram.png" height="30" width="30" /> Telegram</a>
-</p>
+## Hubungi Saya!
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283877698966)
 
 <h3 align="left">Github Status</h3>
 <p align="left">
