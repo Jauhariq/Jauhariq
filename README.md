@@ -18,6 +18,12 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jauhariq)
 [![Facebook](https://img.shields.io/badge/Facebook-9cf?style=for-the-badge&logo=facebook&logoColor=blue)](https://facebook.com/jauhari.afif7)
 
+### 📊 Kegiatan Coding minggu ini
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## Github Statistik
 ![Github stat](https://github-readme-stats.vercel.app/api?username=Jauhariq&theme=highcontrast&show_icons=true) 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jauhariq&theme=great-gatsby)
