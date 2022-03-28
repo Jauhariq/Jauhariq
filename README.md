@@ -13,6 +13,9 @@
  </p>
 
 ## Hubungi Saya!
+
+<a href="https://jauhariq.github.io/kumpulan-tugas/"><img src="https://c.tenor.com/iiI9qG9rJHYAAAAC/ijiranaide-nagatoro-nagataro.gif"/></a>
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283877698966)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/kalimat2anime)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jauhariq)
