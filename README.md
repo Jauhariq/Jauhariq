@@ -24,5 +24,6 @@
 ## Github Statistik
 ![Github stat](https://github-readme-stats.vercel.app/api?username=Jauhariq&theme=highcontrast&show_icons=true) 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jauhariq&theme=great-gatsby)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jauhariq&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jauhariq&theme=default)
 ![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jauhariq&theme=monokai)
