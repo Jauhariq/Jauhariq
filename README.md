@@ -22,7 +22,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-9cf?style=for-the-badge&logo=facebook&logoColor=blue)](https://facebook.com/jauhari.afif7)
 
 ## Github Statistik
-<!--![Github stat](https://github-readme-stats.vercel.app/api?username=Jauhariq&theme=highcontrast&show_icons=true) -->
 
+![Github stat](https://github-readme-stats.vercel.app/api?username=Jauhariq&theme=highcontrast&show_icons=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jauhariq&layout=compact&theme=great-gatsby)
 ![Github Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jauhariq&theme=monokai)
