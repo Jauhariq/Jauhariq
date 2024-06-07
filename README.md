@@ -29,3 +29,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Jauhariq/30-nites-of-code)  
+  ![@Jauhariq #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Jauhariq)
